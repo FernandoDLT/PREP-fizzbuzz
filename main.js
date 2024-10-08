@@ -1,5 +1,5 @@
-// Given a number as an integer, print every integer from 1 to that number. However, 
-// when integer is divisible by 3, print "Fizz"; when it's divisible by 5, print "Buzz";
+//  Given a number as an integer, print every integer from 1 to that number. However, 
+//  when integer is divisible by 3, print "Fizz"; when it's divisible by 5, print "Buzz";
 //  when divisible by both 2 and 5, print out "Fizz Buzz".
 
 // PREP
